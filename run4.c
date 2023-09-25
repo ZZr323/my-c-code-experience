@@ -42,3 +42,4 @@ int main()
     sum+=1;
     printf("%d\n",sum);
     return 0;
+}
